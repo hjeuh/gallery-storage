@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "1750149478387yx1oy029y",
+    "name": "teszt.html",
+    "type": "text/html",
+    "file_url": "https://raw.githubusercontent.com/hjeuh/gallery-storage/main/gallery/files/1750149477477-6o5bgm5uzma.html",
+    "html_content": "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n  <meta charset=\"UTF-8\">\r\n  <title>My First Page</title>\r\n  <style>\r\n    body {\r\n      text-align: center;\r\n      font-family: Arial, sans-serif;\r\n      margin-top: 100px;\r\n      background-color: #f0f0f0;\r\n    }\r\n    button {\r\n      padding: 10px 20px;\r\n      font-size: 16px;\r\n      cursor: pointer;\r\n    }\r\n  </style>\r\n</head>\r\n<body>\r\n  <h1>Welcome to My Page!</h1>\r\n  <p>Click the button to change the background color.</p>\r\n  <button onclick=\"changeColor()\">Change Color</button>\r\n\r\n  <script>\r\n    function changeColor() {\r\n      const colors = [\"#ff9999\", \"#99ccff\", \"#ccffcc\", \"#ffff99\", \"#d1b3ff\"];\r\n      document.body.style.backgroundColor =\r\n        colors[Math.floor(Math.random() * colors.length)];\r\n    }\r\n  </script>\r\n</body>\r\n</html>\r\n",
+    "upload_date": "2025-06-17T08:37:58.387Z",
+    "created_at": "2025-06-17T08:37:58.387Z",
+    "size": 796
+  }
+]
