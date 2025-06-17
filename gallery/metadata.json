@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "1750151177460icuxe9wjv",
+    "name": "test.txt",
+    "type": "text/plain",
+    "file_url": "https://raw.githubusercontent.com/hjeuh/gallery-storage/main/gallery/files/1750151176587-fitbhjvvgqa.txt",
+    "html_content": null,
+    "upload_date": "2025-06-17T09:06:17.461Z",
+    "created_at": "2025-06-17T09:06:17.461Z",
+    "size": 281
+  }
+]
