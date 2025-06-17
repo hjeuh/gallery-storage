@@ -1,15 +1,5 @@
 [
   {
-    "id": "1750150242752w08hx3xk6",
-    "name": "test.txt",
-    "type": "text/plain",
-    "file_url": "https://raw.githubusercontent.com/hjeuh/gallery-storage/main/gallery/files/1750150241844-78ldcc4srvd.txt",
-    "html_content": null,
-    "upload_date": "2025-06-17T08:50:42.752Z",
-    "created_at": "2025-06-17T08:50:42.752Z",
-    "size": 281
-  },
-  {
     "id": "1750149478387yx1oy029y",
     "name": "teszt.html",
     "type": "text/html",
